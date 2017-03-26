@@ -1,2 +1,4 @@
-# QGISPDAM
-QGIS Project for Water Supply Company
+# Tentang QGIS Pdam
+Seperti yang kita ketahui bahwa salah satu aplikasi GIS yang memiliki lisensi opensource adalah QGIS. QGIS atau Quantum GIS merupakan merupakan aplikasi Sistem Informasi Geografis  yang berbasis open source yang mendukung banyak format data vector, database spatial maupun banyak format data raster. Tidak seperti banyak program GIS open source lainnya, QGIS tersedia untuk sejumlah sistem operasi, termasuk Windows dan Mac OSX. Program ini menawarkan fungsi GIS standar, termasuk berbagai macam fitur pemetaan, editing data, on-the-fly proyeksi dan GRASS digitalisasi. dukungan untuk plugin memperluas fungsionalitaske taraf lebih lanjut dengan menyediakan alat tambahan seperti dukungan GPS data, georeferencing, dan elemen pemetaan tambahan.
+
+![Alt text](/screenshot/gispdam1.jpg?raw=true)

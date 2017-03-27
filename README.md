@@ -29,3 +29,6 @@ Aplikasi QGIS dapat di download di http://www.qgis.org/en/site/forusers/download
 File Project ini juga dapat dibuka di Device Android yang telah terintall aplikasi Android QFIELD. Aplikasi QFIELD dapat di download di https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=en
 
 2.	Koneksi Internet. Untuk dapat mebuka raster dalam dari tile server Google Map, maka harus disediakan koneksi internet
+
+# Video Tutorial
+[![QGISPdam Project](https://img.youtube.com/vi/6ye9n-wvUF8/0.jpg)](https://www.youtube.com/watch?v=6ye9n-wvUF8 "QGISPdam Project")

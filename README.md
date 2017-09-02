@@ -21,7 +21,7 @@ telah disediakan 8 layer dasar yang umum digunakan oleh PDAM yaitu :
 Kedelapan layer tersebut juga telah di design oleh Tiza Solution agar dapat melakukan digitasi dan dilengkapi dengan form input Atribut-atribut yang umum diperlukan oleh PDAM.
 
 ## Vector Format Yang Digunakan
-Sebagai media penyimpanan data vector yang digunakan dalam project ini adalah format shapefiles
+Sebagai media penyimpanan data vector yang digunakan dalam project ini adalah format GeoPackage
 
 ## Raster Format
 Sebagai peta dasar yang digunakan dalam project ini adalah dengan memanfaatkan fitur Tile Server XYZ yang tersedia di versi QGIS 2.18 ke atas. Sudah tersedia langsung berupa tile server dari  google satellite

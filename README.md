@@ -6,16 +6,19 @@ Seperti yang kita ketahui bahwa salah satu aplikasi GIS yang memiliki lisensi op
 Dengan kemampuan yang sangat luas tersebut Tiza Solution membuat sebuah project QGIS sederhana yang telah di design sedemikian rupa untuk dapat digunakan kegiatan digitasi asset-aset jaringan perpipaan PDAM maupun posisi pelanggan nya. Dengan begitu di harapkan dapat membantu PDAM yang baru mengenal atau pun akan memulai proses digitasi asset-aset nya.
 
 ## Kelengkapan
-telah disediakan 5 layer dasar yang umum digunakan oleh PDAM yaitu :
+telah disediakan 8 layer dasar yang umum digunakan oleh PDAM yaitu :
 1.	Layer Water Meter Pelanggan
 2.	Layer Pipa
 3.	Layer Bangunan Pelanggan
 4.	Layer As Jalan
 5.	Layer Tile Raster Google Satellite
+6.  Zona DMA
+7.  Wilayah Layanan IPA
+8.  Badan Jalan
 
 ![Alt text](/screenshot/gispdam2.jpg?raw=true)
 
-Kelima layer tersebut juga telah di design oleh Tiza Solution agar dapat melakukan digitasi dan dilengkapi dengan form input Atribut-atribut yang umum diperlukan oleh PDAM.
+Kedelapan layer tersebut juga telah di design oleh Tiza Solution agar dapat melakukan digitasi dan dilengkapi dengan form input Atribut-atribut yang umum diperlukan oleh PDAM.
 
 ## Vector Format Yang Digunakan
 Sebagai media penyimpanan data vector yang digunakan dalam project ini adalah format shapefiles

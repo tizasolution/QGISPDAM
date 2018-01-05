@@ -1,37 +1,37 @@
-# Tentang QGIS Pdam
-Seperti yang kita ketahui bahwa salah satu aplikasi GIS yang memiliki lisensi opensource adalah QGIS. QGIS atau Quantum GIS merupakan merupakan aplikasi Sistem Informasi Geografis  yang berbasis open source yang mendukung banyak format data vector, database spatial maupun banyak format data raster. Tidak seperti banyak program GIS open source lainnya, QGIS tersedia untuk sejumlah sistem operasi, termasuk Windows dan Mac OSX. Program ini menawarkan fungsi GIS standar, termasuk berbagai macam fitur pemetaan, editing data, on-the-fly proyeksi dan GRASS digitalisasi. dukungan untuk plugin memperluas fungsionalitaske taraf lebih lanjut dengan menyediakan alat tambahan seperti dukungan GPS data, georeferencing, dan elemen pemetaan tambahan.
+# About QGISPDAM
+As we know that one of the GIS applications that have an opensource license is QGIS. QGIS or Quantum GIS is an open source Geographic Information System application that supports multiple data vector formats, spatial databases and many raster data formats. Unlike many other open source GIS programs, QGIS is available for a number of operating systems, including Windows and Mac OSX. The program offers standard GIS functions, including a wide range of mapping features, data editing, on-the-fly projections and GRASS digitizing. support for plugins extends the functionality to a more advanced level by providing additional tools such as GPS data support, georeferencing, and additional mapping elements.
 
 ![Alt text](/screenshot/gispdam1.jpg?raw=true)
 
-Dengan kemampuan yang sangat luas tersebut Tiza Solution membuat sebuah project QGIS sederhana yang telah di design sedemikian rupa untuk dapat digunakan kegiatan digitasi asset-aset jaringan perpipaan PDAM maupun posisi pelanggan nya. Dengan begitu di harapkan dapat membantu PDAM yang baru mengenal atau pun akan memulai proses digitasi asset-aset nya.
+With such a vast capability, Tiza Solution makes a simple QGIS project that has been designed in such a way to be used for digitization activities of Water Supply or Waste Water Company their pipeline network assets and its customer position. It is thus expected to help Water Supply or Waste Water Company who are new to or will begin the process of digitizing their assets.
 
-## Kelengkapan
-telah disediakan 8 layer dasar yang umum digunakan oleh PDAM yaitu :
-1.	Layer Water Meter Pelanggan
-2.	Layer Pipa
-3.	Layer Bangunan Pelanggan
-4.	Layer As Jalan
-5.	Layer Tile Raster Google Satellite
-6.  Zona DMA
-7.  Wilayah Layanan IPA
-8.  Badan Jalan
+## Features
+has provided 8 basic layer commonly used by PDAM that is :
+1.	Customers Water Meter Layer
+2.	Pipeline Layer
+3.	Customer Building Layer
+4.	Road Layer
+5.	Tile Raster Google Satellite Layer
+6.  District Metering Area Zone Layer
+7.  Service Area of drinking water treatment plant Zone Layer
+8.  boundary of the road Layer
 
 ![Alt text](/screenshot/gispdam2.jpg?raw=true)
 
-Kedelapan layer tersebut juga telah di design oleh Tiza Solution agar dapat melakukan digitasi dan dilengkapi dengan form input Atribut-atribut yang umum diperlukan oleh PDAM.
+The eight layers have also been designed by Tiza Solution in order to perform digitization and equipped with input form Attributes commonly required by the Water Supply or Waste Water Company.
 
-## Vector Format Yang Digunakan
-Sebagai media penyimpanan data vector yang digunakan dalam project ini adalah format GeoPackage
+## The vector data format
+As the data storage media vector used in this project is GeoPackage format
 
-## Raster Format
-Sebagai peta dasar yang digunakan dalam project ini adalah dengan memanfaatkan fitur Tile Server XYZ yang tersedia di versi QGIS 2.18 ke atas. Sudah tersedia langsung berupa tile server dari  google satellite
+## Raster Data Format
+As a basic map used in this project is to take advantage of Tile Server XYZ features available in QGIS 2.18 and above. Already available directly in the form of tile server from google satellite
 
-## Requirement
-1.	QGIS 2.18 or above. Untuk dapat membuka file project QGISPdam ini harus dibuka di Komputer/Laptop yang sudah terinstall QGIS versi 2.18 keatas.
-Aplikasi QGIS dapat di download di http://www.qgis.org/en/site/forusers/download.html .
-File Project ini juga dapat dibuka di Device Android yang telah terintall aplikasi Android QFIELD. Aplikasi QFIELD dapat di download di https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=en
+## Requirements
+1.	QGIS 2.18 or above. To be able to open the project file QGISPdam this must be opened on Computer / Laptop that has been installed QGIS version 2.18 and above.
+The QGIS application can be downloaded at http://www.qgis.org/en/site/forusers/download.html .
+This Project file can also be opened in Android Device with installed QFIELD Android app. The QFIELD application can be downloaded at https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=en
 
-2.	Koneksi Internet. Untuk dapat mebuka raster dalam dari tile server Google Map, maka harus disediakan koneksi internet
+2.	Internet Connection. To be able to open the raster of the Google Map tile server, it must be provided internet connection
 
 # Video Tutorial
 [![QGISPdam Project](https://img.youtube.com/vi/6ye9n-wvUF8/0.jpg)](https://www.youtube.com/watch?v=6ye9n-wvUF8 "QGISPdam Project")
